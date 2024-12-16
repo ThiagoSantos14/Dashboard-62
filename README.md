@@ -1,0 +1,5 @@
+Com base nos conhecimentos adquiridos no curso, desenvolvi um dashboard no Power BI e o integrei a um site utilizando HTML. A integração foi realizada por meio da tag <iframe>, que permite a incorporação do dashboard diretamente na página web. Para melhorar o layout e o posicionamento do dashboard na página, utilizei CSS3, aplicando estilos à <section> que abriga o iframe, garantindo uma apresentação visual atrativa e funcional.
+
+No entanto, é importante destacar que, devido à forma como o dashboard foi incorporado, somente usuários que efetuarem login em suas contas Power BI poderão visualizar o conteúdo. Essa limitação ocorre porque o dashboard está diretamente vinculado à minha conta Power BI e foi publicado em um ambiente protegido, exigindo autenticação para acesso.
+
+Esse projeto demonstra a combinação das habilidades aprendidas no curso com conhecimentos de desenvolvimento web, resultando em uma solução integrada e profissional para visualização de dados.
